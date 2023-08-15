@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "0a651714820aa3af",
+    "type": "split",
+    "children": [
+      {
+        "id": "210818c8b23e72d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a64edac296bc86f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dotNet interview questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8ec75a099d6d8319",
+    "type": "split",
+    "children": [
+      {
+        "id": "480da72a76386188",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5d2605ff2faf3df",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bef2f37700d04565",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2f7d35bf9a17a768",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dca0be7514d83413",
+    "type": "split",
+    "children": [
+      {
+        "id": "b40cfa1bffbffc24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d41a9efa995b821f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "dotNet interview questions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1cc80d88d6b41221",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "dotNet interview questions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2a0ff988791e35b8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ef0b710a6a17ed59",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "dotNet interview questions.md"
+              }
+            }
+          },
+          {
+            "id": "2c9ce9941b672bf0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "bafbd8cd5d443889",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "590ca61defa76d22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6bb592e61cb4511",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "3a64edac296bc86f",
+  "lastOpenFiles": [
+    "Obsidian",
+    "C++ interview questions.md",
+    "dotNet interview questions.md",
+    "Codeing to learn.md",
+    "2023-08-02.md",
+    "Untitled.canvas",
+    "dotNet.md",
+    "C++.md",
+    "2023-08-03.md",
+    "Day Planners/Day Planner-20230803.md",
+    "Day Planners/Day Planner-20230802.md",
+    "Day Planners",
+    "C.md",
+    "SQL.md",
+    "Python.md",
+    "Untitled 1.md",
+    "C"
+  ]
+}
