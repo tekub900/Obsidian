@@ -95,6 +95,8 @@ The ref keyword passes arguments by reference. Therefore, any changes made to th
 
 The out keyword passes arguments by reference. This is very similar to the ref keyword.
 
+*When an argument is passed as a ref, it must be initialized before it can be passed to the method. An out parameter, on the other hand, need not to be initialized before passing to a method.*
+
 
 | **Ref**                                                                                                                              | **Out**                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -165,3 +167,19 @@ The main difference between the two methods is that the Dispose method is determ
 It is important to note that objects that implement the Dispose method should also implement the Finalize method as a backup mechanism in case the client code does not call the Dispose method.
 
 In summary, the Dispose method is used to release unmanaged resources deterministically. In contrast, the Finalize method is used as a backup mechanism to release unmanaged resources when the object is garbage collected.
+# What is the difference between static, public, and void?
+Public declared variables can be accessed from anywhere in the application. Static declared variables can be accessed globally without needing to create an instance of the class. Void is a type modifier which states the method and is used to specify the return type of a method in C#.
+# What is the benefit of ‘using’ statement in C#?
+The 'using' statement can be used in order to obtain a resource for processing before automatically disposing it when execution is completed.
+# Differentiate between Break and Continue Statement.
+Continue statement - Used in jumping over a particular iteration and getting into the next iteration of the loop.
+
+Break statement - Used to skip the next statements of the current iteration and come out of the loop.
+# Name all the C# access modifiers.
+
+The C# access modifiers are -
+
+- Private Access Modifier - A private attribute or method is one that can only be accessed from within the class.
+- Public Access Modifier - When an attribute or method is declared public, it can be accessed from anywhere in the code.
+- Internal Access Modifier - When a property or method is defined as internal, it can only be accessible from the current assembly point of that class.
+- Protected Access Modifier - When a user declares a method or attribute as protected, it can only be accessed by members of that class and those who inherit it.
