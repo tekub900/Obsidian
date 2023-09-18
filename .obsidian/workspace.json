@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "551aedf8e3253790",
+        "id": "6f93093fb54abe6e",
         "type": "tabs",
         "children": [
           {
-            "id": "da0290b5a9f3ebe0",
+            "id": "b2414effaaaf88df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e9f33b49a4cc9bd1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java interview questions.md",
+                "file": "Honkai Star Rail/Sushang.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "crit ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java interview questions.md",
+                "file": "Honkai Star Rail/Sushang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java interview questions.md",
+                "file": "Honkai Star Rail/Sushang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java interview questions.md"
+                "file": "Honkai Star Rail/Sushang.md"
               }
             }
           },
@@ -190,14 +177,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e9f33b49a4cc9bd1",
+  "active": "b2414effaaaf88df",
   "lastOpenFiles": [
+    "Honkai Star Rail/Leile.md",
+    "Honkai Star Rail/Sushang.md",
+    "Honkai Star Rail/Silver Wolf.md",
+    "Honkai Star Rail/Storage.md",
+    "Honkai Star Rail/Luocha.md",
+    "Honkai Star Rail/Kafka.md",
+    "Java.md",
+    "Honkai Star Rail/Sampo.md",
+    "SQL interview questions.md",
+    "Untitled.md",
     "Java interview questions.md",
+    "Honkai Star Rail",
     "dotNet interview questions.md",
     "C++ interview questions.md",
-    "Java.md",
     "Codeing to learn.md",
-    "SQL interview questions.md",
     "SQL.md",
     "C.md",
     "C++.md",
